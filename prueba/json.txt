@@ -1,0 +1,34 @@
+/* Insertar Restaurante */
+
+[
+	{
+	"nombre_restaurante": "el fogon",
+	"direccion": "calle falsa 123",
+	"tipo_restaurante" : "sopas",
+	"horario" : "8"
+	}]
+
+/* Mostrar Restaurante*/
+
+	[
+	{
+		"id_restaurante": "?"
+	}]
+
+/* Eliminar Restaurante*/
+
+	[
+	{
+		"id_restaurante": "2"
+	}]
+
+/*Actualiza restaurante*/
+
+	[
+	{
+		"id_restaurante": "4",
+		"nombre_restaurante" : "Macdonald" ,
+		"direccion": "centro mayor",
+		"tipo_restaurante": "Comida rapida",
+		"horario": "8 am a 10 pm"
+	}]
